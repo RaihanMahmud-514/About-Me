@@ -1,3 +1,4 @@
+
 # About-Me
 With 2.5 years of experience in the software industry, I am a dedicated and detail-oriented professional with a passion for ensuring the quality of software products.
 
@@ -30,3 +31,7 @@ I am excited to work with innovative and dynamic teams and contribute to the suc
 | 1  | [Custom Bond Management System](https://cusbond.gov.bd/login)| December 2022 - Present | CBMS is an NBR project that deals with different types of bonds. This system is mainly designed for business persons and organizations. Using this system, the user can apply for a bond, and after the bond gets approved, they will be authorized to do business.|
 | 2 | [Reve Chat](https://app.revechat.com/) | March 2023 - Present | REVE Chat is an Omni channel live chat and customer engagement platform that provides real-time assistance to your website visitors for better customer service and boost sales conversions. Businesses can instantly engage with their customers across various channels such as Website live chat, Voice/ Video Chat, Facebook Messenger, Viber, Telegram, and Mobile apps (Android, iOS) using a single platform.<br><br> REVE Chat also has advanced features such as Screen sharing and co-browsing, Department Management, Auto Triggers, Visitor Analytics, Queuing, a fully customizable chat banner, and more to personalize every customer interaction across multiple channels. |
 | 3 | [NETFacilities](https://system.netfacilities.com/) | Apr 2021 - Nov 2022 | NetFacilities is a cloud-based facility management software solution developed by MRI Software. It is designed to help organizations streamline their facility management processes, improve efficiency, and reduce costs. NetFacilities offers a range of features and tools to help facility managers manage their facilities, including work order management, preventive maintenance, asset management, inventory management, and vendor management. It also includes a mobile app that allows users to access and manage their facilities on the go.<br><br>NetFacilities is a powerful and flexible facility management solution that can help organizations of all sizes and industries streamline their operations and improve their bottom line.|
+
+#Resume
+[Resume of Md Raihan Mahmud.pdf](https://github.com/RaihanMahmud-514/About-Me/files/12752434/Resume.of.Md.Raihan.Mahmud.pdf)
+
