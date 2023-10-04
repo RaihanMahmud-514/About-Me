@@ -1,5 +1,5 @@
 
-# About-Me
+# About Me
 With 2.5 years of experience in the software industry, I am a dedicated and detail-oriented professional with a passion for ensuring the quality of software products.
 
 As an SQA Engineer, I specialize in testing and ensuring the quality of software products to meet the needs and expectations of end-users. My expertise includes software testing methodologies, test automation, quality metrics, and process improvement.
