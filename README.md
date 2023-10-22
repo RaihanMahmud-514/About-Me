@@ -1,5 +1,5 @@
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 # About-Me
 With over 2.5 years of experience in the software industry, I am a dedicated and detail-oriented professional with a passion for ensuring the quality of software products.
 
